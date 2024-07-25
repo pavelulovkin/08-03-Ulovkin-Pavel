@@ -1,3 +1,2 @@
 #!/bin/bash
-# Test
-# Test2
+# Conflict branch
